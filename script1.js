@@ -1,6 +1,6 @@
 const quizData = [
   {
-    question: "Which National Park is the largest in MP, also called the 'Tiger State'?",
+    question: "Which National Park is the largest in MP?",
     a: "Kanha National Park",
     b: "Bandhavgarh National Park",
     c: "Satpura National Park",
@@ -107,3 +107,4 @@ submitBtn.addEventListener("click", () => {
     }
   }
 });
+
