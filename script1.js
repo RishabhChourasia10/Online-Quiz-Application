@@ -1,6 +1,6 @@
 const quizData = [
   {
-    question: "Which National Park is the largest in MP?",
+    question: "Which National Park is the largest in MP ?",
     a: "Kanha National Park",
     b: "Bandhavgarh National Park",
     c: "Satpura National Park",
@@ -107,5 +107,6 @@ submitBtn.addEventListener("click", () => {
     }
   }
 });
+
 
 
